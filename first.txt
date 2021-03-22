@@ -1,1 +1,23 @@
-this is the first file of my git practice and im learning git from code with harry so i will do some work here just for the sake of practice
+Git tutorial written form for learning purpose.
+
+1. For a new user to tell git who is user of this git 
+
+	git config --global user.name
+	git config --global user.email
+
+2.make files right click and click git bash here . write something in the files and save.
+before this you have to initialize a local repositery in this folder where files are placed for this purpose command is 
+
+	git init
+
+3."ls" command is used to check details what is available in the folder ls means listing it will tell everything within the folder
+
+4.run " git status " command and it will tell you status of git 
+it will tell you have two untracked files in the present working directory (pwd) so better it is to save these files and let git track it.
+ 
+5. Use "git add <file name> " to add sigle file and " git add ." to add all files and you files will be added to stagging area.
+
+6. Run "git status" and it will show you two tracked files 
+7.Run "git commit -m "here you will describe about the file"   " to commit changes
+
+8. Run " git log" to know which person has done which change if more than one developer is working on the project
