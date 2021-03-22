@@ -1,1 +1,2 @@
 And this is my second file for git practice and as i mentioned earlier i am learning git from code with harry so i will do some work here just for the sake of practice i have typed a lot of text in the first file just adding some text here so that git tells me that both of these files are edited.
+now i am going to make changes through github account and then i will pull and see what happens
