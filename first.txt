@@ -21,3 +21,5 @@ it will tell you have two untracked files in the present working directory (pwd)
 7.Run "git commit -m "here you will describe about the file"   " to commit changes
 
 8. Run " git log" to know which person has done which change if more than one developer is working on the project
+
+9. i think i should add some more 
